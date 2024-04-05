@@ -1,1 +1,2 @@
 # SmartParking
+Nowadays, due to the large number of cars, it is a pain to find a parking space. So I said, why not design a system that sends you right to a free parking space. Then, we see every day, the high number of crimes against parked, unlit cars. At the same time, we also see how in some car parks the lighting is excessive, without the owner thinking about economy and resources. Last but not least, we need to extend the "life" of the car in winter.
